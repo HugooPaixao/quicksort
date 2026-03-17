@@ -1,5 +1,3 @@
-# Quick Sort
-
 A empresa de desenvolvimento de sistemas Poxim Tech está realizando um experimento para determinar qual variante do algoritmo de ordenação crescente do Quicksort apresenta o melhor resultado para um determinado conjunto de sequências numéricas.
 
 Neste experimento foram utilizadas as seguintes variantes:
