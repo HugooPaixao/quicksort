@@ -53,6 +53,3 @@ Para cada vetor é impressa a quantidade total de números N e a sequência com 
 ```
 
 ---
-
-> Todas as entradas e saídas seguem rigorosamente os formatos das descrições.
-> O algoritmo foi implementado para fins acadêmicos.
